@@ -22,6 +22,7 @@
 [![SourceForge](https://img.shields.io/sourceforge/dt/openstamanager.svg?label=SourceForge)](https://sourceforge.net/projects/openstamanager/)
 [![license](https://img.shields.io/github/license/devcode-it/openstamanager.svg)](https://github.com/devcode-it/openstamanager/blob/master/LICENSE)
 [![huntr](https://cdn.huntr.dev/huntr_security_badge_mono.svg)](https://huntr.dev)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Floviuz%2Fopenstamanager.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Floviuz%2Fopenstamanager?ref=badge_shield)
 
 Il gestionale OpenSTAManager è un software open-source e web based, sviluppato dall'azienda informatica [DevCode](https://www.devcode.it/) di Este per gestire ed archiviare il servizio di assistenza tecnica e la relativa fatturazione.
 Il nome del progetto deriva dalla parziale traduzione in inglese degli elementi principali che lo compongono: la natura open-source e il suo obiettivo quale Gestore del Servizio Tecnico di Assistenza.
@@ -134,3 +135,7 @@ Per poter contribuire ed eseguire i test automatici, si consiglia di seguire le 
 ## Licenza
 
 Questo progetto è tutelato dalla licenza [**GPL 3**](https://github.com/devcode-it/openstamanager/blob/master/LICENSE).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Floviuz%2Fopenstamanager.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Floviuz%2Fopenstamanager?ref=badge_large)
