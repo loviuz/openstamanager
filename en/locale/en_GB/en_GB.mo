@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: openstamanager\n"
 "POT-Creation-Date: 2021-01-14 01:06+0100\n"
-"PO-Revision-Date: 2024-03-27 23:38\n"
+"PO-Revision-Date: 2024-03-28 00:39\n"
 "Last-Translator: \n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -44,7 +44,7 @@ msgstr ""
 #: actions.php:30 modules/aggiornamenti/upload_modules.php:25
 #: src/Permissions.php:101
 msgid "Accesso negato"
-msgstr ""
+msgstr "Access denied"
 
 #: actions.php:41
 msgid "Non hai permessi di scrittura per il modulo _MODULE_"
@@ -68,7 +68,7 @@ msgstr ""
 
 #: actions.php:86
 msgid "Errore durante l'eliminazione del file!"
-msgstr ""
+msgstr "Error deleting file!"
 
 #: actions.php:139 actions.php:160
 msgid "Nota interna aggiunta correttamente!"
